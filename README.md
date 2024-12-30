@@ -1,5 +1,7 @@
 # ESP32 HTTP Server
 
+![Website](media/webpage.png "webpage")
+
 ## Overview
 
 This project implements a lightweight HTTP server on the ESP32 platform. The server serves a static HTML webpage embedded directly into the firmware. Designed for simplicity and efficiency, it showcases the capability of the ESP32 microcontroller to handle HTTP communication in a bare-metal approach.
